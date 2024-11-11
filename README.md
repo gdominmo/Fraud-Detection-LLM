@@ -6,5 +6,5 @@ Los datos con los que se ha trabajado provienen de la plataforma Kaggle, concret
 
 ## Archivos ejecutables 
 Existen dos archivos Jupyter Notebook:
-- En el primero se realiza un pre-procesamiento del conjunto de datos inicial, realizando un análisis exploratorio y transformación de datos.
-- En el segundo se realiza el entrenamiento y evaluación de distintos modelos: LLM, regresión logística y red neuronal
+- (Pre-Procesamiento.ipynb) En el primero se realiza un pre-procesamiento del conjunto de datos inicial, realizando un análisis exploratorio y transformación de datos.
+- (Entrenamiento.ipynb) En el segundo se realiza el entrenamiento y evaluación de distintos modelos: LLM, regresión logística y red neuronal
